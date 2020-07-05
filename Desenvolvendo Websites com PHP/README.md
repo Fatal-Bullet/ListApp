@@ -7,3 +7,5 @@
 ## O que é PHP
 
 ## Instalação do PHP
+
+## Noções bácicas de programação
