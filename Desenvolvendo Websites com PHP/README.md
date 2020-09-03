@@ -25,3 +25,11 @@
 ## PHP e variáveis de ambiente
 
 ## Banco de dados: MySQL ou PosgreSQL
+
+## PHP com banco de dados
+
+## Cookies e sessões 
+
+## Manipulando arquivos em PHP
+
+## Enviando e-mailscom PHP
