@@ -11,3 +11,17 @@
 ## Noções bácicas de programação
 
 ## Manipulando os dados em PHP
+
+## Estruturas de controle em PHP
+
+## Funções e orientações a objetos 
+
+## Utilizando includes em PHP
+
+## PHP e formulários  HTML
+
+## Passando informações por várias páginas
+
+## PHP e variáveis de ambiente
+
+## Banco de dados: MySQL ou PosgreSQL
