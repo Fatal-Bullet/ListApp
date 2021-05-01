@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Plant Manager" title="ListApp" src=".github/logo.png" />
+  <img alt="Plant Manager" title="ListApp" src=".github/ListApp.png" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="ListApp" src=".github/ListApp.png" width="100%">
+  <img alt="ListApp" src=".github/logo.png" width="50%">
 </p>
 
 ## ✨ Tecnologias
