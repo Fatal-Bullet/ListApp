@@ -34,6 +34,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 - Clone o repositório
 - Rode em um servidor apache
+- [preview]()
 
 ## 📄 Licença
 
