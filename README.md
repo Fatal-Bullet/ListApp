@@ -11,18 +11,18 @@
 <br>
 
 <p align="center">
-  <img alt="ListApp" src=".github/logo.png" width="50%">
+  <img alt="ListApp" src=".github/logo.png" width="30%">
 </p>
 
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [HTML](https://reactnative.dev/)
-- [css](https://reactnative.dev/)
-- [javascript](https://www.typescriptlang.org/)
-- [PHP](https://expo.io/)
-- [MYSQL](https://expo.io/)
+- [HTML]()
+- [css]()
+- [javascript]()
+- [PHP]()
+- [MYSQL]()
 ## 💻 Projeto
 
 Desenvolver um sistema para cadastrar, editar e excluir contatos e seus endereços.
