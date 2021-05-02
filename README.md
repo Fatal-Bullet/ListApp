@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=32B768&labelColor=000000">
-
+https://listappserver.000webhostapp.com/index.php
  <img src="https://img.shields.io/static/v1?label=ListApp&message=1.0.0&color=191622&labelColor=000000" alt="NLW 05" />
 </p>
 
@@ -35,7 +35,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 - Clone o repositório
 - Rode em um servidor apache
-- [preview]()
+- [preview](https://listappserver.000webhostapp.com/index.php)
 
 ## 📄 Licença
 
