@@ -19,6 +19,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [HTML](https://reactnative.dev/)
+- [css](https://reactnative.dev/)
 - [javascript](https://www.typescriptlang.org/)
 - [PHP](https://expo.io/)
 - [MYSQL](https://expo.io/)
