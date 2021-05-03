@@ -34,7 +34,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 - Clone o repositório
 - Rode em um servidor apache
-- [Configuração database]()
+- [Configuração database](https://github.com/Fatal-Bullet/ListApp/blob/master/database/database.conf)
 - [preview](https://listappserver.000webhostapp.com/index.php)
 
 ## 📄 Licença
